@@ -1,0 +1,13 @@
+.item{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    justify-self: center;
+    margin: 5px;
+}
+
+
+.btn{
+    display: inline;
+    align-items: flex-end;
+}
